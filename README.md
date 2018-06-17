@@ -5,6 +5,7 @@
 
 ### ROS
 - [Learning ROS for_Robotics Programming](https://github.com/AaronMR/Learning_ROS_for_Robotics_Programming_2nd_edition) ROS电子书
+- [视觉slam十四讲](https://github.com/gaoxiang12/slambook) ROS书籍代码
 
 ### 机器学习
 - [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml) 机器学习书籍代码
@@ -14,4 +15,4 @@
 - 优秀的self driving car project, [mvirgo](https://github.com/mvirgo)/[Eddie Forson](https://github.com/kenshiro-o?tab=repositories)/[cisuu](https://github.com/cisuu)
 
 ## 小工具
-- [禁止Windows10系统自动更新](https://github.com/f1tz/BlockWin10AU)
+- [禁止Windows10系统自动更新](https://github.com/f1tz/BlockWin10AU), Win10关闭自动更新工具
