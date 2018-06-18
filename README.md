@@ -1,4 +1,3 @@
-
 ### 无人驾驶
 - [apollo](https://github.com/ApolloAuto/apollo)
 百度开源的无人驾驶框架
@@ -9,6 +8,8 @@
 
 ### 机器学习
 - [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml) 机器学习书籍代码
+- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) 吴恩达老师的机器学习课程个人笔记
+- [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 
 ## Udacity
 - 优秀的machine learning project, [ciozhang](https://github.com/ciozhang/machinelearning-deeplearning-project) 
